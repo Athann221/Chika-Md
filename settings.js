@@ -17,14 +17,14 @@ zenz: 'https://zenzapis.xyz',
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
-//gausah di apa² in, udah free apikey :)
+//gausah di apa² in, udah free apikey :) 
 'https://zenzapis.xyz': 'BagasGanz',
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6287861350273','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6287861350273'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6287861350273' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
